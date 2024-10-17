@@ -25,4 +25,4 @@ This project introduces an innovative audio encryption and decryption algorithm 
 This project is open-source and licensed under the MIT License.
 
 ## Author
-This project was developed as part of a research initiative on DNA-based audio encryption.
+This project was developed by Hoda Ahmed Riad (Hodariad39@gmail.com) under the supervision of professor Mohamed Karam Gabr.
